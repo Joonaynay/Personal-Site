@@ -1,0 +1,58 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;    
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {          
+    width: 100%;      
+    border-spacing: 3px;                
+}
+td, th {
+    padding: 3px;
+    width: 16.66%;
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+.work {
+    background-color: blue;
+    color: white;
+}
+
+.cs3320 {
+    background-color: red;
+    color: white;
+}
+
+.cs3520 {
+    background-color: green;
+    color: white;
+}
+
+.cs2550 {
+    background-color: orange;
+    color: white;
+}
+
+.cs3100 {
+    background-color: yellow;    
+}
+
+.calc {
+    background-color: blueviolet;
+    color: white;
+}
+
+.poem {
+    text-align: center;
+}
