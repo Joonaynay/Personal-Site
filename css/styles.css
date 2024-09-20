@@ -2,8 +2,16 @@ body {
     font-family: 'Courier New';
     font-size: 12pt;
     background-color: #f0f8ff;    
-    padding: 15px;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
+
+html {
+    background-image: url(../background.jpg);    
+}
+
 
 .name {
     font-size: 30pt;
@@ -15,14 +23,14 @@ body {
 }
 
 h1, h2 {
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 10px;
 }
 
 img {    
     float: right;
-    width: 400px;
-    height: 400px;
+    width: 20em;
+    height: 20em;
     object-fit: cover;
     margin-left: 25px;
     margin-top: 25px;
